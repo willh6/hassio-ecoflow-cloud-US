@@ -5,7 +5,7 @@ In order to add a new entity for a device type, following info is needed:
 - *slider*: name, data_key, action_command, min, max
 
 Current integrations details:
-- [DELTA 3 PLUS] (device/DELTA_3_PLUS.md)
+- [DELTA_3_PLUS](devices/DELTA_3_PLUS)
 - [DELTA_2](devices/DELTA_2.md)
 - [RIVER_2](devices/RIVER_2.md)
 - [RIVER_2_MAX](devices/RIVER_2_MAX.md)
